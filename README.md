@@ -7,7 +7,6 @@ This repository is for practicing the GitHub Flow.
 - [DESCRIPTION](#Description)
 - [TOOLS USED](#Tools-Used)
 - [FILES USED](#Files-Used)
-- 
 
 ## Project Title    
 
