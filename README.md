@@ -1,3 +1,7 @@
-# Hello-World
+# My First Repository  
 This repository is for practicing the GitHub Flow.  
-hj
+
+## Project Title  
+*Hello-World*
+
+
