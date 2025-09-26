@@ -17,7 +17,6 @@ This repository is a practice project to learn the basics of GitHub. By completi
 - Create a new repository in GitHub.
 - Write and format a README.md file using Markdown syntax.
 - Understand how to document files and provide instructions for future users.
-
 The outcome of this project is a working “Hello World” program and a properly documented repository. While simple, this lays the foundation for managing larger, more complex projects in the future
 
 ## Tools Used      
