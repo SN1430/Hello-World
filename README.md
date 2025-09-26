@@ -21,7 +21,7 @@ This repository is a practice project to learn the basics of GitHub. By completi
 The outcome of this project is a working “Hello World” program and a properly documented repository. While simple, this lays the foundation for managing larger, more complex projects in the future
 
 ## Tools Used      
-- SQL
-- 
-
+- Markdown – for writing and formatting this README file.  
+- GitHub – for version control and repository hosting.  
+  
 ## Files Used      
